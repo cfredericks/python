@@ -1,0 +1,11 @@
+# Publisher subjects
+SUBJECT_STATUS = 'session.status'
+SUBJECT_STATUSBAR = 'statusbar.status'
+
+# Session statuses
+STATUS_ERROR = 'ERROR'
+STATUS_SIM = 'SIMULATION'
+STATUS_LOGIN = 'LOG_IN'
+STATUS_LOGOUT = 'LOG_OUT'
+STATUS_LOGGED_IN = 'LOGGED_IN'
+STATUS_LOGGED_OUT = 'LOGGED_OUT'

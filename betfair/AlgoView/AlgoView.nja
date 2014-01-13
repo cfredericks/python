@@ -1,0 +1,25 @@
+{
+  "mainFile": "E:/projects/Corvin/corvin-dev/BetfairBot/python/AlgoView/algoview.py", 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "AlgoView", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "C:/Python27/python.exe", 
+  "preExecScript": "", 
+  "programParams": "", 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
